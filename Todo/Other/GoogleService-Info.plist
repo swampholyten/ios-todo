@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBvzvnbhs1JW0cPGn2xW7fCglz5vfhXiaA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696374561408</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>swampholyten.Todo</string>
+	<key>PROJECT_ID</key>
+	<string>swiftuitodolist-ea1db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftuitodolist-ea1db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696374561408:ios:2ed4dc704938db88437465</string>
+</dict>
+</plist>
